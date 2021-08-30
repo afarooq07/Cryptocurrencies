@@ -7,3 +7,9 @@ In this challenge, we will run analysis on cryptocurrencies dataset for an inves
 - Code file: crypto_clustering.ipynb
 - Data file: Resources/crypto_data.csv
 
+## Deliverables:
+we will have four deliverables for this challenge:
+- D1: Preprocessing the Data for PCA
+- D2: Reducing Data Dimensions Using PCA
+- D3: Clustering Cryptocurrencies Using K-means
+- D4: Visualizing Cryptocurrencies Results
